@@ -76,7 +76,8 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/zLSRXLH.png" group-title="🌐WEB CHANNELS",TVI Reality | Portugal 
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8 
-#EXTINF:-1 tvg-id="5ad9be1be738977e2c312134" tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png" group-title="Esportes em alemão",Glory Kickboxing | Pluto TV Alemanha 
+
+#EXTINF:-1 tvg-id="5ad9be1be738977e2c312134" tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png" group-title="🏀Esportes",Glory Kickboxing | Pluto TV Alemanha 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1kXmNJ2.png" group-title="🏀ESPORTES",El Pinguino Retransmisión | Chile https://stream.ads.ottera.tv/playlist.m3u8?network_id=1650 
