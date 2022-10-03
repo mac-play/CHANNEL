@@ -106,7 +106,7 @@ http://assistirstla.b-cdn.net/live/disneychannel/chunks.m3u8?token=nnwViD-Vi2OUk
 #EXTINF:-1 tvg-logo="http://is.gd/ZfKffa" group-title="💥NOVIDADE", HISTORY | Brasil 
 http://assistirstla.b-cdn.net/live/history/chunks.m3u8?token=GDLYT63PvcME1hwg8N0S2e1Y1Cprr56oFWK_LKCiL40&expires=1664811356
 
-#EXTINF:-1 tvg-logo="is.gd/ndLmAY" group-title="💥NOVIDADE", NICKELODEON | Brasil 
+#EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="💥NOVIDADE", NICKELODEON | Brasil 
 http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=afJytPQHMnjeOM4uc_ArWOkyjVSuUvSbx672vL-ifDY&expires=1664811481
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥NOVIDADE", PLANETA ANIMAL| Brasil 
