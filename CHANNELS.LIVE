@@ -91,3 +91,20 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="🏀ESPORTES",Motorvision | Brasil 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="💥NOVIDADE", DISNEY CHANNEL 
+http://assistirstla.b-cdn.net/live/disneychannel/chunks.m3u8?token=nnwViD-Vi2OUkhpO-A7T10ZRxgdj0RRJ_lm6Ms4yS3w&expires=1664811124
+
+#EXTINF:-1 tvg-logo="http://is.gd/ZfKffa" group-title="💥NOVIDADE", HISTORY | Brasil 
+http://assistirstla.b-cdn.net/live/history/chunks.m3u8?token=GDLYT63PvcME1hwg8N0S2e1Y1Cprr56oFWK_LKCiL40&expires=1664811356
+
+#EXTINF:-1 tvg-logo="is.gd/ndLmAY" group-title="💥NOVIDADE", NICKELODEON | Brasil 
+http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=afJytPQHMnjeOM4uc_ArWOkyjVSuUvSbx672vL-ifDY&expires=1664811481
+
+#EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥NOVIDADE", PLANETA ANIMAL| Brasil 
+http://assistirstla.b-cdn.net/live/animalplanet/chunks.m3u8?token=5qd86Dl4TZVvEEUbhNryuGrDMlK0rCqaEch-3DFESZA&expires=1664811949
+
+
+
