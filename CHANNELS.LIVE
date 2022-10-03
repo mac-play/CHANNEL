@@ -106,5 +106,7 @@ http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=afJytPQHMnjeOM4
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥NOVIDADE", PLANETA ANIMAL| Brasil 
 http://assistirstla.b-cdn.net/live/animalplanet/chunks.m3u8?token=5qd86Dl4TZVvEEUbhNryuGrDMlK0rCqaEch-3DFESZA&expires=1664811949
 
+#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="💥NOVIDADE", CARTOONNETWORK| Brasil 
+http://assistirstla.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=hmKmMuvL6Jke9P4HqaMvWfUyjiQVX-3_JK2u-2krRTo&expires=1664851782
 
 
