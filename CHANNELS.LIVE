@@ -99,20 +99,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 
 
+🟥⬜🟥⬜🟥⬜🟥⬜🟥⬜🟥⬜💜RANDOMICOS⬜🟥⬜🟥⬜🟥⬜
+#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL 
+http://assistirstla.b-cdn.net/live/disneychannel/chunks.m3u8?token=zBNOYk_cJZCIIRQdvssuArVfYlmRMabwuD5aO4fxLIo&expires=1665025689
 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="💥NOVIDADE", DISNEY CHANNEL 
-http://assistirstla.b-cdn.net/live/disneychannel/chunks.m3u8?token=nnwViD-Vi2OUkhpO-A7T10ZRxgdj0RRJ_lm6Ms4yS3w&expires=1664811124
+#EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON | Brasil 
+http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=G0p05OHizFbaPE8mTb1JhTdrYvL20aNWyYcfIjPsn0k&expires=1665045774
 
-#EXTINF:-1 tvg-logo="http://is.gd/ZfKffa" group-title="💥NOVIDADE", HISTORY | Brasil 
-http://assistirstla.b-cdn.net/live/history/chunks.m3u8?token=GDLYT63PvcME1hwg8N0S2e1Y1Cprr56oFWK_LKCiL40&expires=1664811356
+#EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL| Brasil 
+http://assistirstla.b-cdn.net/live/animalplanet/chunks.m3u8?token=ePmiCGDH4_emFnZVSf1Agoi99bXlPydBN9_2l-a7ZIE&expires=1665045867
 
-#EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="💥NOVIDADE", NICKELODEON | Brasil 
-http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=afJytPQHMnjeOM4uc_ArWOkyjVSuUvSbx672vL-ifDY&expires=1664811481
-
-#EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥NOVIDADE", PLANETA ANIMAL| Brasil 
-http://assistirstla.b-cdn.net/live/animalplanet/chunks.m3u8?token=5qd86Dl4TZVvEEUbhNryuGrDMlK0rCqaEch-3DFESZA&expires=1664811949
-
-#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="💥NOVIDADE", CARTOONNETWORK| Brasil 
-http://assistirstla.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=hmKmMuvL6Jke9P4HqaMvWfUyjiQVX-3_JK2u-2krRTo&expires=1664851782
+#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOONNETWORK| Brasil 
+http://assistirstla.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=87lrDKhgmaJtTDdG6iB7juUisgw11ece8N2dpiM3Zfg&expires=1665045924
 
 
