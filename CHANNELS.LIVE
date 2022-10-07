@@ -8,6 +8,10 @@
 ●
 ♻️PADRÃO 
 
+EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="🎲ENTRETENIMENTO",Naruto | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="🎲ENTRETENIMENTO",Turma da Mônica | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="🗞NOTICIAS",BandNews FM | Goiânia GO https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="🗞NOTICIAS",BandNews FM | YT São Paulo SP http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live 
 
 #EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="🗞NOTICIAS",Bloomberg - inglês e português | Brasil https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8 
@@ -121,15 +125,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 
 🟥⬜🟥⬜🟥⬜🟥⬜🟥⬜🟥⬜💜RANDOMICOS⬜🟥⬜🟥⬜🟥⬜
 #EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL 
-http://assistirstla.b-cdn.net/live/disneychannel/chunks.m3u8?token=1fG65EfD_aIh2EA7zPnKWqaLasrXXRPVvx9PCnOxqQE&expires=1665101874
+http://assistirstla.b-cdn.net/live/disneychannel/chunks.m3u8?token=a0PY6iTF7VS3YtguaVo7FXieSO7403ZqHlOIsBjmEbM&expires=1665187744
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON | Brasil 
-http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=rpH9MULlfspoF9_Yh2jmEFWzht8_Deg1SEZ0VtC0HAE&expires=1665101903
+http://assistirstla.b-cdn.net/live/nickelodeon/chunks.m3u8?token=DUIb1WgMxpU_L73RClqw1r14ttemWd68j9YnO3HMWpU&expires=1665187673
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL| Brasil 
-http://assistirstla.b-cdn.net/live/animalplanet/chunks.m3u8?token=Co-lpFz8EQX2ZOtmKEIE6MhqKaMrRoJisjGwcXhcklk&expires=1665102004
+http://assistirstla.b-cdn.net/live/animalplanet/chunks.m3u8?token=lfzjF8X-zzSEkwNTf0ImKNhLwDYF-ilxdQNTkPzHfDo&expires=1665187795
 
 #EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOONNETWORK| Brasil 
-http://assistirstla.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=Dyl2d_2SnuNYanhP3W_HdJAfkv7pk7DCQaWNJHcx67A&expires=1665101903
+http://assistirstla.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=tBIhAlexwwbhcdmBZiAEuKvmR1Bm9Z9XmoMsEqcg94k&expires=1665187673
 
 
