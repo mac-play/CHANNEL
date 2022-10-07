@@ -8,6 +8,11 @@
 ●
 ♻️PADRÃO 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="🗞NOTICIAS",BandNews FM | Goiânia GO https://5a2b083e9f360.streamlock.net/nexdial/nexdial.stream/master.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPeO9hi.png" group-title="🗞NOTICIAS",BandNews FM | YT São Paulo SP http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RádioBandNewsFM0/live 
+
+#EXTINF:-1 tvg-id="BloombergTVBrazil.us" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="🗞NOTICIAS",Bloomberg - inglês e português | Brasil https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8 
+
+
 #EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="🌐WEB CHANNELS",O encantador de cães | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5f6108d8cc331900075e98e4" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="🌐WEB CHANNELS",MTV Are you the One? | Pluto TV Brasil 
