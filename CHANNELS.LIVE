@@ -2,6 +2,9 @@
 #EXTM3U url-tvg="https://www.tvmap.com.br/Programacao" ############## ESPORTES #################
 
 🎮EDITAVEIS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5E6kPJ.png" group-title="DEPORTES", Claro Sports | HD http://main.nrdtv.gq:2095/live/tadeosanchez/0100240/294.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="DEPORTES", CableOnda Sports | HD http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zBW4BMS.jpg" group-title="DEPORTES", CableOnda Sports FC | HD http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8 
 ●
 ●
 ●
