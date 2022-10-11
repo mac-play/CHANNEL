@@ -24,7 +24,8 @@ tvg-map 937393y3826
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="🎲ENTRETENIMENTO",MyTime Movie Network | Brasil https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🏀ESPORTES",MMA TV | link 6 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🏀ESPORTES",MMA TV | 0FICIAL
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 
 
 #EXTINF:-1 tvg-id="5cb626cfcaf83414128f439c" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="🏀ESPORTES",MLS - Futebol | EUA https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
