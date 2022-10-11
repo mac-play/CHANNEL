@@ -7,7 +7,7 @@
 ●
 ●
 ♻️PADRÃO 
-EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="🌐WEB CHANNELS",Astral TV | Brasil https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="🌐WEB CHANNELS",Astral TV | Brasil https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="🌐WEB CHANNELS",BraziTV - Amaury Jr https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="♻️DOCUMENTARIO",Canal Saúde | Brasil https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8 
