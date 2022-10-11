@@ -1,8 +1,8 @@
-#EXTM3U
-#TVG-MAP 927299173929162 
+#EXTM3U 
+tvg-map 937393y3826
 
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/2bba3580f3bb5591397a720d93b79b52.jpg" group-title="", Esporte Interativo (HD) http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-360p.m3u8
 
-#EXTINF:0 tvg-logo="https://" TEST CNN http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AicQgRxCoSg
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="🏀ESPORTES",NHRA Championship Drag Racing 4 https://stream.ads.ottera.tv/playlist.m3u8?network_id=735 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="🏀ESPORTES",NHRA Championship Drag Racing 5 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010 
