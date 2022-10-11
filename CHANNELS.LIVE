@@ -2,6 +2,8 @@
 #TVG-MAP 927299173929162 
 
 
+#EXTINF:0 tvg-logo="https://" TEST CNN http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=AicQgRxCoSg
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="🏀ESPORTES",NHRA Championship Drag Racing 4 https://stream.ads.ottera.tv/playlist.m3u8?network_id=735 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="🏀ESPORTES",NHRA Championship Drag Racing 5 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010 
 #EXTINF:-1 tvg-id="61ea9e5e3ae39c00076ee3b5" tvg-logo="https://images.pluto.tv/channels/61ea9e5e3ae39c00076ee3b5/colorLogoPNG.png" group-title="🏀ESPORTES",RX TV | Pluto TV Dinamarca http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea9e5e3ae39c00076ee3b5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
