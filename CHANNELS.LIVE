@@ -1,7 +1,10 @@
-====##IN LIVE##====
-#EXTM3U url-tvg="https://www.tvmap.com.br/Programacao" ############## ESPORTES #################
+#EXTM3U
+#TVG-MAP 927299173929162 
+
 
 🎮
+
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="🗞NOTICIAS",CNN Brasil | YouTube http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live #EXTIN
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="https://pbs.twimg.com/profile_images/1212859696383696896/ljdBfeUQ_400x400.jpg" group-title="🏀ESPORTES",All Sports | Brasil https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8 
 
 ♻️
@@ -13,7 +16,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="🎲ENTRETENIMENTO",MyTime Movie Network | Brasil https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🏀ESPORTES",MMA TV | link 6 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819 #EXTI
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🏀ESPORTES",MMA TV | link 6 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819 
 
 #EXTINF:-1 tvg-id="5cb626cfcaf83414128f439c" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="🏀ESPORTES",MLS - Futebol | EUA https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
