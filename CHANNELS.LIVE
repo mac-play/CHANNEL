@@ -10,13 +10,13 @@ tvg-map 937393y3826
 #EXTINF:-1 tvg-id="allsports.br" tvg-logo="http://is.gd/VH3Vlm" group-title="🏀ESPORTES",All Sports | Brasil https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="🌐WEB CHANNELS",Astral TV | Brasil https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d4binkS.png" group-title="🌐WEB CHANNELS",BraziTV - Amaury Jr https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="♻️DOCUMENTARIO",Canal Saúde | Brasil https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8 
-#EXTINF:-1 tvg-id="culturapara" tvg-logo="https://i.imgur.com/vfYMS0k.png" group-title="♻️DOCUMENTARIO",Cultura do Pará | Brasil http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="🎲ENTRETENIMENTO",MyTime Movie Network | Brasil https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🏀ESPORTES",MMA TV | 0FICIAL https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 
-#EXTINF:-1 tvg-id="5cb626cfcaf83414128f439c" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="🏀ESPORTES",MLS - Futebol | EUA https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="http://is.gd/wJPmJ1" group-title="🌐WEB CHANNELS",Astral TV | Brasil https://cdn.cdnseguro.com/altraltv/altraltv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://is.gd/WUiJBx" group-title="🌐WEB CHANNELS",BraziTV - Amaury Jr https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="http://is.gd/7e1gkv" group-title="♻️DOCUMENTARIO",Canal Saúde | Brasil https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8 
+#EXTINF:-1 tvg-id="culturapara" tvg-logo="http://is.gd/uqjzIp" group-title="♻️DOCUMENTARIO",Cultura do Pará | Brasil http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://is.gd/v7sDPt" group-title="🎲ENTRETENIMENTO",MyTime Movie Network | Brasil https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="http://is.gd/GdPdwn" group-title="🏀ESPORTES",MMA TV | 0FICIAL https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 
+#EXTINF:-1 tvg-id="5cb626cfcaf83414128f439c" tvg-logo="http://is.gd/ai4gTK" group-title="🏀ESPORTES",MLS - Futebol | EUA https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 #EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="🏀ESPORTES",beIN Sports Xtra | EUA https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
