@@ -86,7 +86,13 @@ tvg-map 575-537-797.86
 
 #EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
 #EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-
+💥
+#EXTINF:-1 tvg-logo="http://is.gd/lku03D" group-title="♻️DOCUMENTARIO",WILD EARTH https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
+#EXTINF:-1 tvg-logo="http://is.gd/eY1V4e" group-title="🏀ESPORTES",FTF SPORTS https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://is.gd/MK7AKk" group-title="🎶MUSIC",KARAOKE https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f156b1ed056a1db9ef3d67.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
+#EXTINF:-1 tvg-logo="http://is.gd/BoukdT" group-title="🎶MUSIC",HIP HOP R&B https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
+#EXTINF:-1 tvg-logo="http://is.gd/0hnsm0" group-title="🎶MUSIC",ROCK ALTERNATIVO https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
+#EXTINF:-1 tvg-logo="http://is.gd/Y8Vu5J" group-title="🎶MUSIC",KPOP https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
 
 ♻️RANDOM
 
@@ -103,3 +109,11 @@ http://stlahiper.b-cdn.net/live/animalplanet/chunks.m3u8?token=j0iZft4O5hfJz0ofR
 http://stlahiper.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=s39sWULmmgvUm7_I3BxkM7Rfa17Es1YyfM1cI6XPNZs&expires=1665708776
 
 
+●EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="💥JOGO AO VIVO", NOME DA LIVE 
+http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=LeAgACuSJrDdBA1_gxBo-JCGJcNkLPwx5FLdwYe634c&expires=1665625663
+
+●EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="💥JOGO AO VIVO", NOME DA LIVE
+http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=9_nt-gK7p0zUexrvxJLe1ZpOq0kvA5u3uhQDP7KsRlM&expires=1665708776
+
+●EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥JOGO AO VIVO", NOME DA LIVE
+http://stlahiper.b-cdn.net/live/animalplanet/chunks.m3u8?token=j0iZft4O5hfJz0ofRLEqheZ7ldH_6-TIDWbHiET44-4&expires=1665625591
