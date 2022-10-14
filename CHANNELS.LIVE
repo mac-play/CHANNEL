@@ -1,25 +1,8 @@
 #EXTM3U 
 tvg-map 575-537-797.86
 
-#EXTINF:-1 tvg-logo="https://is.gd/FhsdO5" group-title="🎲ENTRETENIMENTO",JACKIE CHAN     http://tinyurl.com/2pz6qaru 
-#EXTINF:-1 tvg-logo="https://is.gd/Ddt6EA" group-title="🎲ENTRETENIMENTO", NARUTO         http://tinyurl.com/2gjanp89
-#EXTINF:-1 tvg-logo="https://is.gd/iDNdoN" group-title="🎲ENTRETENIMENTO", BOB ESPONJA    http://tinyurl.com/2nf5qdl7 
-#EXTINF:-1 tvg-logo="https://is.gd/O51Gul" group-title="🎲ENTRETENIMENTO", MONICA         http://tinyurl.com/2olujtyz
+#EXTINF:-1 tvg-logo="https://is.gd/sjZAis" group-title="🎲ENTRETENIMENTO",PARAMOUNT TV    http://tinyurl.com/2k3matfb?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://is.gd/4AFD8Y" group-title="🎲ENTRETENIMENTO", DEATH NOTE     http://tinyurl.com/2hu7huub 
-#EXTINF:-1 tvg-logo="https://is.gd/kpeh0z" group-title="🎲ENTRETENIMENTO",ANIME TV        http://tinyurl.com/2e9sp9oy
-#EXTINF:-1 tvg-logo="https://is.gd/jhOWKG" group-title="🎲ENTRETENIMENTO", NICK JR CLUB   http://tinyurl.com/2f2h53aq
-#EXTINF:-1 tvg-logo="https://is.gd/sjZAis" group-title="🎲ENTRETENIMENTO",PARAMOUNT TV    http://tinyurl.com/2k3matfb 
-
-#EXTINF:-1 tvg-logo="http://is.gd/MK7AKk" group-title="🎶MUSIC",KARAOKE https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f156b1ed056a1db9ef3d67.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/BoukdT" group-title="🎶MUSIC",HIP HOP R&B https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/0hnsm0" group-title="🎶MUSIC",ROCK ALTERNATIVO https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/Y8Vu5J" group-title="🎶MUSIC",KPOP https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
 #EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
@@ -30,22 +13,17 @@ tvg-map 575-537-797.86
 #EXTINF:-1 tvg-logo="http://is.gd/BoukdT" group-title="🎶MUSIC",HIP HOP R&B https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
 #EXTINF:-1 tvg-logo="http://is.gd/0hnsm0" group-title="🎶MUSIC",ROCK ALTERNATIVO https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
 #EXTINF:-1 tvg-logo="http://is.gd/Y8Vu5J" group-title="🎶MUSIC",KPOP https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
+🟨🟥🟩🟥⬜🟨🟥🟩⬜🟩🟦🟥🟩🟥🟦⬜🟩🟦⬜🟩🟥🟦⬜🟩🟦⬜
 
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="🎲ENTRETENIMENTO",Cindie Lite https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is.gd/lku03D" group-title="♻️DOCUMENTARIO",WILD EARTH https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/eY1V4e" group-title="🏀ESPORTES",FTF SPORTS https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Filmes Nacionais | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="6079c058aa05ac0007d10054" tvg-logo="https://images.pluto.tv/channels/6079c058aa05ac0007d10054/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Jeannie é um Gênio |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Porta dos Fundos | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Death Note  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="http://is.gd/MK7AKk" group-title="🎶MUSIC",KARAOKE https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f156b1ed056a1db9ef3d67.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/BoukdT" group-title="🎶MUSIC",HIP HOP R&B https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/0hnsm0" group-title="🎶MUSIC",ROCK ALTERNATIVO https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/Y8Vu5J" group-title="🎶MUSIC",KPOP https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
 
+🟥⬜🟩🟦🟨⬜🟩⬜🟨🟦🟥⬜🟨🟦🟥⬜🟨🟦🟥🟦🟨🟥🟦🟨🟦🟨
 ♻️RANDOM
 
 #EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL
@@ -61,11 +39,11 @@ http://stlahiper.b-cdn.net/live/animalplanet/chunks.m3u8?token=j0iZft4O5hfJz0ofR
 http://stlahiper.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=-U-O0EXx32UcgPj5nR8D07ZvQEILJ-HcGPH-sYzeDNs&expires=1665796972
 
 
-●EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="💥JOGO AO VIVO", NOME DA LIVE 
+#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="💥JOGO AO VIVO", NOME DA LIVE 
 http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=LeAgACuSJrDdBA1_gxBo-JCGJcNkLPwx5FLdwYe634c&expires=1665625663
 
-●EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="💥JOGO AO VIVO", NOME DA LIVE
+#EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="💥JOGO AO VIVO", NOME DA LIVE
 http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=9_nt-gK7p0zUexrvxJLe1ZpOq0kvA5u3uhQDP7KsRlM&expires=1665708776
 
-●EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥JOGO AO VIVO", NOME DA LIVE
+#EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="💥JOGO AO VIVO", NOME DA LIVE
 http://stlahiper.b-cdn.net/live/animalplanet/chunks.m3u8?token=j0iZft4O5hfJz0ofRLEqheZ7ldH_6-TIDWbHiET44-4&expires=1665625591
