@@ -1,9 +1,9 @@
 #EXTM3U 
 tvg-map 575-537-797.86
 
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
+#EXTINF:-1 tvg-logo="http://is.gd/JZvzp1" group-title="🎲ENTRETENIMENTO",JACKIE CHAN    https://bit.ly/3CCPTtg 
+#EXTINF:-1 tvg-logo="https://is.gd/g9v3DY" group-title="🎲ENTRETENIMENTO", NARUTO  https://bit.ly/3CCPTtg
+#EXTINF:-1 tvg-logo="https://is.gd/iDNdoN" group-title="🎲ENTRETENIMENTO", BOB ESPONJA    https://tinyurl.com/2nf5qdl7 
 #EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
