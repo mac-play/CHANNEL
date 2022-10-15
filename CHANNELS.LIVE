@@ -44,6 +44,10 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 
 
 
+
+
+#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="🌐WEB CHANNELS",Vida Real | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="🌐WEB CHANNELS",Yeeaah | Brasil https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8 #
 #EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="🌐WEB CHANNELS",MTV Shore | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
 #EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Os arquivos do FBI | Pluto TV Brasil https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Nosey Escândalos | Pluto TV Brasil https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
@@ -56,10 +60,10 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="🏀ESPORTES",UOL Esporte -  http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/UOLEsporte/live #
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1J9f1r7.png" group-title="🏀ESPORTES",TNT Sports STATS http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/esporteinterativo/live #
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="🏀ESPORTES",RealMadrid TV 2 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="🏀ESPORTES",Choppertown | link 2 https://linear-11.frequency.stream/dist/sportstribaltv/11/hls/master/playlist.m3u8 
-
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="🏀ESPORTES",Motorvision 4 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1314 
 #EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="🏀ESPORTES",MTV Pimp My Ride | Pluto TV Reino Unido https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="🏀ESPORTES",NHRA Championship Drag Racing 5 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010
