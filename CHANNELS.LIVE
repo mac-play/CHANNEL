@@ -101,23 +101,23 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 ♻️RANDOM
 
 #EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL
-http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=LeAgACuSJrDdBA1_gxBo-JCGJcNkLPwx5FLdwYe634c&expires=1665625663
+http://magod.b-cdn.net/live/disneychannel/chunks.m3u8?token=bcgT2CR4ZpvVa1a9lXFCEX2ZOcztwpPFZGPuGYvL_lM&expires=1665895510
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
-http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=rhM9jNiOaqOeYEQtGsc4EcWxGp-1BTfkVZmDyPsTRiE&expires=1665796972
+http://magod.b-cdn.net/live/nickelodeon/chunks.m3u8?token=iQyo89lfg5Q7pGdDL_Dx_ozfLIJh4Yc71GxDsLrHEE8&expires=1665895417
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
-http://stlahiper.b-cdn.net/live/animalplanet/chunks.m3u8?token=j0iZft4O5hfJz0ofRLEqheZ7ldH_6-TIDWbHiET44-4&expires=1665625591
+http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1665895566
 
-#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOONNETW
-http://stlahiper.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=-U-O0EXx32UcgPj5nR8D07ZvQEILJ-HcGPH-sYzeDNs&expires=1665796972
+#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOONNETWORK
+http://magod.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=evEoE0k-znom49vabH9PpcFJ-i1tuWFOZTV2YdLiMEs&expires=1665895417
 
 
-#EXTINF:-1 tvg-logo="http://is.gd/14GRr" group-title="💥JOGO AO VIVO", NOME DA LIVE 
-http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=LeAgACuSJrDdBA1_gxBo-JCGJcNkLPwx5FLdwYe634c&expires=1665625663
+#EXTINF:-1 tvg-logo="https://is.gd/IiHg5n" group-title="💥JOGO AO VIVO", 🔴 IN LIVE...[BIL×ATH]
+http://magod.b-cdn.net/live/espn/chunks.m3u8?token=0DrYSSxvszAT1AdjRif7IwRF5D4HPFqhUBkG5lvooBs&expires=1665894889
 
-#EXTINF:-1 tvg-logo="https://is.gd/WNTE7o" group-title="💥JOGO AO VIVO", 🔴IN LIVE...  [VIL×CRU]
-http://stlahiper.b-cdn.net/live/premiere2/chunks.m3u8?token=qHkpkdEcaSbGq4pdmfDDm_fdXW9RReoC1-0PQ6Oih18&expires=1665828303
+#EXTINF:-1 tvg-logo="https://is.gd/niBeG9" group-title="💥JOGO AO VIVO", 🔴IN LIVE...  [COR GOI]
+http://magod.b-cdn.net/live/premiere2/chunks.m3u8?token=k1M_GvKGAGQQJ_piAQb34_HG7JkIJFzuqk8eI8bOziM&expires=1665894889
 
-#EXTINF:-1 tvg-logo="https://is.gd/On6pHn" group-title="💥JOGO AO VIVO", 🔴IN LIVE... [NOV×NAU]
-http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=MiGcJYcZ6ufIJfQvPvK6Ce9slK-5IftoPyoG7GetkY0&expires=1665828303
+#EXTINF:-1 tvg-logo="https://is.gd/cADkiq" group-title="💥JOGO AO VIVO", 🔴IN LIVE... [FLA×ATL]
+http://magod.b-cdn.net/live/premiereclubes/chunks.m3u8?token=rXHjYtzNU_gdxiF763DWwJpx9H8Pc078sDbY4sSHk3k&expires=1665894889
