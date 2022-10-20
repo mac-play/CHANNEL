@@ -104,7 +104,7 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 http://magod.b-cdn.net/live/disneychannel/chunks.m3u8?token=bcgT2CR4ZpvVa1a9lXFCEX2ZOcztwpPFZGPuGYvL_lM&expires=1666061009
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
-http://magod.b-cdn.net/live/nickelodeon/chunks.m3u8?token=ZC03NwktaXJqiL64i6Lrcryjj6kHT568_F7jnwzb7a8&expires=1666230714
+http://magod.b-cdn.net/live/nickelodeon/chunks.m3u8?token=l7jRj4t63D85nk-VQu62lkIepL32GWkVzvsTcRwPtNY&expires=1666323633
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
 http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
