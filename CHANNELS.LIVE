@@ -1,11 +1,6 @@
 #EXTM3U 
 tvg-map 575-537-797.86
-
-💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶💶
-🔖ADS CODE
-
-
-💷💷💷💷💷💷💷💷💷💷💷💷💷💷💸💷💷💷💷💷💷💷💷💷💷
+tvg-speed = "on"
 
 #EXTINF:-1 tvg-logo="https://is.gd/sjZAis" group-title="🎲ENTRETENIMENTO",PARAMOUNT TV  https://bit.ly/3MXUR8Z
 
@@ -97,6 +92,13 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Turbo | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="♻️DOCUMENTARIO",TV Faap | Brasil http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8 
 
+📶TEST DE FREQUÊNCIA 
+#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL
+https://youtu.be/93x1r68LBFQ
+
+
+
+
 🟥⬜🟩🟦🟨⬜🟩⬜🟨🟦🟥⬜🟨🟦🟥⬜🟨🟦🟥🟦🟨🟥🟦🟨🟦🟨
 ♻️RANDOM
 
@@ -104,7 +106,7 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 http://magod.b-cdn.net/live/disneychannel/chunks.m3u8?token=bcgT2CR4ZpvVa1a9lXFCEX2ZOcztwpPFZGPuGYvL_lM&expires=1666061009
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
-http://magod.b-cdn.net/live/nickelodeon/chunks.m3u8?token=l7jRj4t63D85nk-VQu62lkIepL32GWkVzvsTcRwPtNY&expires=1666323633
+http://abcdario.b-cdn.net/live/nickelodeon/chunks.m3u8?token=0x2IuEuZ_YhHlEbjtPaCByyXPFhjt1ljBubLtWqpYxY&expires=1666569878
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
 http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
