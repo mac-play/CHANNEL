@@ -92,25 +92,6 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 #EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Turbo | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="♻️DOCUMENTARIO",TV Faap | Brasil http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8 
 
-📶TEST DE FREQUÊNCIA 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", LOONEY TUNES
-https://dd194.comuatraf.xyz/download?file=ODA0Y2Q5NmNkNGRlYWY4NzkyMjZjMzNhNTdhY2YzZGNjMDBkMGY0OGU1NWYyMTQxNTljNDg4NzcwNjcyZjBmNV80ODBwLm1wNOKYr1gyRG93bmxvYWQuYXBwLUxPT05FWSBUVU5FUyBDT01QSUxBw4fDg08gREUgMiBIT1JBUyBERSBERVNFTkhPUyBEVUJMQURPU-KYrzQ4MHA
-
-TEST DE FREQUÊNCIA 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", LOO
-https://dd194.comuatraf.xyz/download?file=ODA0Y2Q5NmNkNGRlYWY4NzkyMjZjMzNhNTdhY2YzZGNjMDBkMGY0OGU1NWYyMTQxNTljNDg4NzcwNjcyZjBmNV80ODBwLm1wNOKYr1gyRG93bmxvYWQuYXBwLUxPT05FWSBUVU5FUyBDT01QSUxBw4fDg08gREUgMiBIT1JBUyBERSBERVNFTkhPUyBEVUJMQURPU-KYrzQ4MHA
-
-TEST DE FREQUÊNCIA 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", LOO
-https://dd194.comuatraf.xyz/download?file=ODA0Y2Q5NmNkNGRlYWY4NzkyMjZjMzNhNTdhY2YzZGNjMDBkMGY0OGU1NWYyMTQxNTljNDg4NzcwNjcyZjBmNV80ODBwLm1wNOKYr1gyRG93bmxvYWQuYXBwLUxPT05FWSBUVU5FUyBDT01QSUxBw4fDg08gREUgMiBIT1JBUyBERSBERVNFTkhPUyBEVUJMQURPU-KYrzQ4MHA
-
-TEST DE FREQUÊNCIA 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", LOO
-https://dd194.comuatraf.xyz/download?file=ODA0Y2Q5NmNkNGRlYWY4NzkyMjZjMzNhNTdhY2YzZGNjMDBkMGY0OGU1NWYyMTQxNTljNDg4NzcwNjcyZjBmNV80ODBwLm1wNOKYr1gyRG93bmxvYWQuYXBwLUxPT05FWSBUVU5FUyBDT01QSUxBw4fDg08gREUgMiBIT1JBUyBERSBERVNFTkhPUyBEVUJMQURPU-KYrzQ4MHA
-
-TEST DE FREQUÊNCIA 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", LOO
-https://dd194.comuatraf.xyz/download?file=ODA0Y2Q5NmNkNGRlYWY4NzkyMjZjMzNhNTdhY2YzZGNjMDBkMGY0OGU1NWYyMTQxNTljNDg4NzcwNjcyZjBmNV80ODBwLm1wNOKYr1gyRG93bmxvYWQuYXBwLUxPT05FWSBUVU5FUyBDT01QSUxBw4fDg08gREUgMiBIT1JBUyBERSBERVNFTkhPUyBEVUJMQURPU-KYrzQ4MHA
 
 
 🟥⬜🟩🟦🟨⬜🟩⬜🟨🟦🟥⬜🟨🟦🟥⬜🟨🟦🟥🟦🟨🟥🟦🟨🟦🟨
@@ -129,11 +110,11 @@ http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkCo
 http://magod.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=k_68z8s50NU1LxjynysTrM-zqDwoMXb0ZAwFhALRJ4o&expires=1666230714
 
 
-#EXTINF:-1 tvg-logo="https://is.gd/WsvOk" group-title="💥JOGO AO VIVO", 🔴IN LIVE SANTOS CORINTHIANS 
-http://abcdario.b-cdn.net/live/premiere2/chunks.m3u8?token=9EonfWZBTPOZ9HOHhD_2XOLmEOzF7NC6wz1eRLuoLx4&expires=1666515704
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE BER×ATL
+http://abcdario.b-cdn.net/live/espn4/chunks.m3u8?token=YOrtscrUEW-2B_bf3EpDXaBP4aBMhOsMbUQT2x8ax1Q&expires=1666571546
 
-#EXTINF:-1 tvg-logo="https://is.gd/86Pte" group-title="💥JOGO AO VIVO", 🔴IN LIVE... AMERICA X FLAMENGO 
-http://abcdario.b-cdn.net/live/premiereclubes/chunks.m3u8?token=f1tEzJeUXyy1_x7tTEXGq9x9NvgdVjn9l53BcJgDAf0&expires=1666515704
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE... NAU×GRE 
+http://abcdario.b-cdn.net/live/sportv/chunks.m3u8?token=WJQV1LgDojT_RXD7wSVPNZ1slJD5Cqn2FCem8hUIZgE&expires=1666571546
 
-#EXTINF:-1 tvg-logo " "group-title="💥JOGO AO VIVO", 🔴IN LIVE... PALMEIRAS X AVAI
-http://abcdario.b-cdn.net/live/sportv/chunks.m3u8?token=-n7-vm1Ewh38WynqbXnnmgcBf9DebxEqOjkX4O7PHGo&expires=1666515704
+#EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE...COR×INT
+http://abcdario.b-cdn.net/live/premiereclubes/chunks.m3u8?token=5RtXod4u040E63TIJFigo-jX5oBcVtvRlBMUbz-GCag&expires=1666571546
