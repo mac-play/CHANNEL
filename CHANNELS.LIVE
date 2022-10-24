@@ -107,7 +107,7 @@ http://abcdario.b-cdn.net/live/nickelodeon/chunks.m3u8?token=og9k48mfUWgP8Z47ltr
 http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
 
 #EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOON NETWORK 
-http://abcdario.b-cdn.net/live/gloob/chunks.m3u8?token=wg_Jw5Wt6YGNw9jRBQYfVU0O952kGRaU95uoqpH_4BQ&expires=1666660479
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE BER×ATL
