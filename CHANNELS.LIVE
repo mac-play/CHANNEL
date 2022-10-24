@@ -97,17 +97,17 @@ EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/ch
 🟥⬜🟩🟦🟨⬜🟩⬜🟨🟦🟥⬜🟨🟦🟥⬜🟨🟦🟥🟦🟨🟥🟦🟨🟦🟨
 ♻️RANDOM
 
-#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", DISNEY CHANNEL
-http://magod.b-cdn.net/live/disneychannel/chunks.m3u8?token=bcgT2CR4ZpvVa1a9lXFCEX2ZOcztwpPFZGPuGYvL_lM&expires=1666061009
+#EXTINF:-1 tvg-logo="http://is.gd/14GKRr" group-title="🎲ENTRETENIMENTO", GIGA GLOB 
+http://abcdario.b-cdn.net/live/gloob/chunks.m3u8?token=wg_Jw5Wt6YGNw9jRBQYfVU0O952kGRaU95uoqpH_4BQ&expires=1666660479
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
-http://abcdario.b-cdn.net/live/nickelodeon/chunks.m3u8?token=0x2IuEuZ_YhHlEbjtPaCByyXPFhjt1ljBubLtWqpYxY&expires=1666569878
+http://abcdario.b-cdn.net/live/nickelodeon/chunks.m3u8?token=og9k48mfUWgP8Z47ltri8wEVDpI_8pm452wT95EGlho&expires=1666660479
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
 http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
 
-#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOONNETWORK
-http://magod.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=k_68z8s50NU1LxjynysTrM-zqDwoMXb0ZAwFhALRJ4o&expires=1666230714
+#EXTINF:-1 tvg-logo="http://is.gd/6gdLtw" group-title="🎲ENTRETENIMENTO", CARTOON NETWORK 
+http://abcdario.b-cdn.net/live/gloob/chunks.m3u8?token=wg_Jw5Wt6YGNw9jRBQYfVU0O952kGRaU95uoqpH_4BQ&expires=1666660479
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE BER×ATL
