@@ -1,6 +1,6 @@
 #EXTM3U 
 tvg-map 575-537-797.86
-tvg-speed = "on"
+tvg-speed = "on"  loop(food = 0; foodNeeded = 10) { if (food = foodNeeded) { exit loop; // Nós temos comida o suficiente, Vamos para casa } else { food += 2; // Passe uma hora coletando mais 2 alimentos(food) // loop será executado novamente } }
 
 #EXTINF:-1 tvg-logo="https://is.gd/sjZAis" group-title="🎲ENTRETENIMENTO",PARAMOUNT TV  https://bit.ly/3MXUR8Z
 
