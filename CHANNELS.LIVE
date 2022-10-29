@@ -1,6 +1,6 @@
-#EXTM3U 
-tvg-map 575-537-797.86
-tvg-speed = "on"  $('#id').find('p');
+#EXTM3U
+ x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" 
+## IPv6 Lote 069 ## 
 
 #EXTINF:-1 tvg-logo="https://is.gd/sjZAis" group-title="🎲ENTRETENIMENTO",PARAMOUNT TV  https://bit.ly/3MXUR8Z
 
