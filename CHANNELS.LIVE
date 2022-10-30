@@ -105,7 +105,7 @@
 http://abcdario.b-cdn.net/live/gloob/chunks.m3u8?token=wg_Jw5Wt6YGNw9jRBQYfVU0O952kGRaU95uoqpH_4BQ&expires=1666660479
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
-http://marquisi.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=T22BOzOEyvSqYIj_7DinoK0bHe_mVR6LKbwjb3Ws61E&expires=1667181941
+http://marquisi.b-cdn.net/live/nickelodeon/chunks.m3u8?token=id1Ntf2-Uj5QYBn28hZGRp0HAMIoXqDHG-mPw2zZGXs&expires=1667181941
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
 http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
