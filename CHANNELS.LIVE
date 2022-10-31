@@ -105,7 +105,7 @@
 http://abcdario.b-cdn.net/live/gloob/chunks.m3u8?token=wg_Jw5Wt6YGNw9jRBQYfVU0O952kGRaU95uoqpH_4BQ&expires=1666660479
 
 #EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲ENTRETENIMENTO", NICKELODEON
-http://marquisi.b-cdn.net/live/nickelodeon/chunks.m3u8?token=id1Ntf2-Uj5QYBn28hZGRp0HAMIoXqDHG-mPw2zZGXs&expires=1667181941
+http://marquisi.b-cdn.net/live/nickelodeon/chunks.m3u8?token=tW_1WWz9qe-DMGzIEsgpPLRkV6y-wwc20kzI-ZljXtA&expires=1667268081
 
 #EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
 http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
@@ -116,11 +116,14 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/22t43u2x" group-title="🎲ENTRETENIMENTO", CARTOON NETWORK 
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE BER×ATL
+#EXTINF:-1 tvg-logo="https://tinyurl.com/28j6hg9r" group-title="🏀ESPORTES", 🔴IN LIVE  PREMIERE 01
 http://abcdario.b-cdn.net/live/espn4/chunks.m3u8?token=YOrtscrUEW-2B_bf3EpDXaBP4aBMhOsMbUQT2x8ax1Q&expires=1666571546
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE... NAU×GRE 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/28j6hg9r" group-title="🏀ESPORTES", 🔴IN LIVE... PREMIERE 02 
 http://abcdario.b-cdn.net/live/sportv/chunks.m3u8?token=WJQV1LgDojT_RXD7wSVPNZ1slJD5Cqn2FCem8hUIZgE&expires=1666571546
 
-#EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="💥JOGO AO VIVO", 🔴IN LIVE...COR×INT
+#EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="🏀ESPORTES", 🔴IN LIVE... SPORTV 
+http://abcdario.b-cdn.net/live/premiereclubes/chunks.m3u8?token=5RtXod4u040E63TIJFigo-jX5oBcVtvRlBMUbz-GCag&expires=1666571546
+
+#EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="🏀ESPORTES", 🔴IN LIVE... ESPN 
 http://abcdario.b-cdn.net/live/premiereclubes/chunks.m3u8?token=5RtXod4u040E63TIJFigo-jX5oBcVtvRlBMUbz-GCag&expires=1666571546
