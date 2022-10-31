@@ -117,13 +117,13 @@ https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/28j6hg9r" group-title="🏀ESPORTES", 🔴IN LIVE  PREMIERE 01
-http://abcdario.b-cdn.net/live/espn4/chunks.m3u8?token=YOrtscrUEW-2B_bf3EpDXaBP4aBMhOsMbUQT2x8ax1Q&expires=1666571546
+http://marquisi.b-cdn.net/live/premiereclubes/chunks.m3u8?token=0B5yrx5m2-yFUlpgu0Kiz81OIpmIbrgFZ8zF55aa_Dc&expires=1667268387
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/28j6hg9r" group-title="🏀ESPORTES", 🔴IN LIVE... PREMIERE 02 
-http://abcdario.b-cdn.net/live/sportv/chunks.m3u8?token=WJQV1LgDojT_RXD7wSVPNZ1slJD5Cqn2FCem8hUIZgE&expires=1666571546
+http://marquisi.b-cdn.net/live/premiere3/chunks.m3u8?token=a8C1xhNVV_-n2Vep1Vs5Dd9QpHm_D6tEpuzgtbZf5b4&expires=1667268387
 
-#EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="🏀ESPORTES", 🔴IN LIVE... SPORTV 
-http://abcdario.b-cdn.net/live/premiereclubes/chunks.m3u8?token=5RtXod4u040E63TIJFigo-jX5oBcVtvRlBMUbz-GCag&expires=1666571546
+#EXTINF:-1 tvg-logo "https://tinyurl.com/2yeh3lyd" group-title="🏀ESPORTES", 🔴IN LIVE... SPORTV 
+http://marquisi.b-cdn.net/live/sportv/chunks.m3u8?token=6b-j8xm-psdR0YsLigPsl00v6yrLPupU0hFXHJxKAps&expires=1667268387
 
 #EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="🏀ESPORTES", 🔴IN LIVE... ESPN 
-http://abcdario.b-cdn.net/live/premiereclubes/chunks.m3u8?token=5RtXod4u040E63TIJFigo-jX5oBcVtvRlBMUbz-GCag&expires=1666571546
+http://marquisi.b-cdn.net/live/espn/chunks.m3u8?token=Koav_gQ9kdHkszMCKFUWRTugc2ZFtn0DBahTP8Ve1x4&expires=1667268387
