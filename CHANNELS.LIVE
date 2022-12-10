@@ -1,122 +1,44 @@
-#EXTM3U
- x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" 
-## IPv6 Lote 069 ## 
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml" 
+#SUFRU EDITION 
+⛔ PLUTO 
+⛔ PLEX 
+⛔ LG CHANELS 
+⛔ SANSUNG CHANELS 
+📢os conteúdos já estavam disponíveis na web apenas os listamos para uso pessoal sem fins lucrativos 
+🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩⬜🟩
 
+🟢🎬#CINEMATOGRAFICOS# canais de filmes 
 
-
-#EXTINF:-1 tvg-logo="http://is.gd/6IkK6X" group-title="🏀ESPORTES",Arena Games   https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142 
-#EXTINF:-1 tvg-logo="http://is.gd/2zoM4G" group-title="🏀ESPORTES",Motorvision   https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://is.gd/lku03D" group-title="♻️DOCUMENTARIO",WILD EARTH https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/eY1V4e" group-title="🏀ESPORTES",FTF SPORTS https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
-8#EXTINF:-1 tvg-logo="http://is.gd/MK7AKk" group-title="🎶MUSIC",KARAOKE https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62f156b1ed056a1db9ef3d67.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/BoukdT" group-title="🎶MUSIC",HIP HOP R&B https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/0hnsm0" group-title="🎶MUSIC",ROCK ALTERNATIVO https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8
-#EXTINF:-1 tvg-logo="http://is.gd/Y8Vu5J" group-title="🎶MUSIC",KPOP https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8?includeAllStreams=1&X-Plex-Token=B-doFPTwTa7h415hWyo8 ottera-motorvision-samsungbr/playlist.m3u8
-🟨🟥🟩🟥⬜🟨🟥🟩⬜🟩🟦🟥🟩🟥🟦⬜🟩🟦⬜🟩🟥🟦⬜🟩🟦⬜
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1fuitzl.png" group-title="🎲ENTRETENIMENTO",Cindie Lite https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8 
-#EXTINF:-1 tvg-id="61dc56caa2d0560007417d6c" tvg-logo="https://images.pluto.tv/channels/61dc56caa2d0560007417d6c/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",La otra cara del Alma | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Filmes Nacionais | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f36f2346ede750007332d11" tvg-logo="https://images.pluto.tv/channels/5f36f2346ede750007332d11/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Porta dos Fundos | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-
-
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Death Note  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="6079c1539b05aa0007a57495" tvg-logo="http://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png" group-title="🎲INFANTIL",As Aventuras de Jackie Chan https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="🎲INFANTIL",Bob Esponja |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="620ff46e0a576e0007dc2f89" tvg-logo="https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png" group-title="🎲INFANTIL",iCarly |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://i.imgur.com/046zDW4.png" group-title="🎲ENTRETENIMENTO",Naruto |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f121460b73ac6000719fbaf" tvg-logo="https://i.imgur.com/j9CMGyU.png" group-title="🎲ENTRETENIMENTO",Nick Jr. Club  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
-#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",NickTeen |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="🎲INFANTIL",Turma da Mônica  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Adrenalina Freezone | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-#EXTINF:-1 tvg-id="611e75226b7f420007c3f319" tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png" group-title="🎲INFANTIL",Inazuma Eleven | Pluto TV França https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e75226b7f420007c3f319/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="🎲INFANTIL",Anime Ação | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-#EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",FailArmy | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-
-
-#EXTINF:-1 tvg-id="5f1eed3c29b39600073e2ec0" tvg-logo="https://images.pluto.tv/channels/5f1eed3c29b39600073e2ec0/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Os Três Patetas | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="🎲ENTRETENIMENTO",Tokusato | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5f32d4d9ec194100070c7449" tvg-logo="https://i.imgur.com/YuTPeFV.png" group-title="🌐WEB CHANNELS",Vida Real | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="Yeeaah.br" tvg-logo="https://i.imgur.com/S7DCwx0.png" group-title="🌐WEB CHANNELS",Yeeaah | Brasil https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8 #
-#EXTINF:-1 tvg-id="625463563b8ddc0007134aeb" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="🌐WEB CHANNELS",MTV Shore | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="620d12a82e8ac50007c269c3" tvg-logo="https://images.pluto.tv/channels/620d12a82e8ac50007c269c3/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Os arquivos do FBI | Pluto TV Brasil https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
-
-#EXTINF:-1 tvg-id="5f9b05a99547eb0007676b02" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Nosey Escândalos | Pluto TV Brasil https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
-#EXTINF:-1 tvg-id="620fdc7d8a36fc000710e3ba" tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="🌐WEB CHANNELS",MTV Jovens e Mães - Teen Mom | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="61a528267e1b8b0007357920" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="🌐WEB CHANNELS",MTV Com o Ex | Brasil https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
-#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Pronto-Socorro: histórias de emergência | Pluto TV Brasil https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
-#EXTINF:-1 tvg-id="6077045b6031bd00078de127" tvg-logo="https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png" group-title="🌐WEB CHANNELS",MasterChef | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-#EXTINF:-1 tvg-id="6254ac8f30665a00077ec182" tvg-logo="https://images.pluto.tv/channels/6254ac8f30665a00077ec182/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Mestres do Ilusionismo | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254ac8f30665a00077ec182/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-#EXTINF:-1 tvg-id="6238c63deec07b000723dd77" tvg-logo="https://images.pluto.tv/channels/6238c63deec07b000723dd77/colorLogoPNG.png" group-title="🌐WEB CHANNELS",Canal UOL | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6238c63deec07b000723dd77/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zejxG2A.png" group-title="🏀ESPORTES",UOL Esporte -  http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/UOLEsporte/live #
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1J9f1r7.png" group-title="🏀ESPORTES",TNT Sports STATS http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/esporteinterativo/live #
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="🏀ESPORTES",RealMadrid TV 2 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="🏀ESPORTES",Choppertown | link 2 https://linear-11.frequency.stream/dist/sportstribaltv/11/hls/master/playlist.m3u8 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="🏀ESPORTES",Motorvision 4 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1314 
-#EXTINF:-1 tvg-id="619243059541940007d1ff86" tvg-logo="https://images.pluto.tv/channels/619243059541940007d1ff86/colorLogoPNG.png" group-title="🏀ESPORTES",MTV Pimp My Ride | Pluto TV Reino Unido https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619243059541940007d1ff86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="🏀ESPORTES",NHRA Championship Drag Racing 5 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="🏀ESPORTES",Black Belt 4 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1670 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="🏀ESPORTES",Fight Network | EUA 7 https://stream.ads.ottera.tv/playlist.m3u8?network_id=857 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🏀ESPORTES",MMA TV | link 6 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D20gKxq.png" group-title="🏀ESPORTES",World Billiards TV 2 https://stream.ads.ottera.tv/playlist.m3u8?network_id=605 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="🎶MUSIC",Canela Hits | Canela TV https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7VmFIX9.png" group-title="🎶MUSIC",Canela Hits | Canela TV 2 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1747 
-#EXTINF:-1 tvg-id="ESBB19000012F" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="🎶MUSIC",Clubbing TV https://stream.ads.ottera.tv/playlist.m3u8?network_id=738 
-
-
-#EXTINF:-1 tvg-id="CHBB1900001XL" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="🎶MUSIC",Clubbing TV 2 https://stream.ads.ottera.tv/playlist.m3u8?network_id=753 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="🎶MUSIC",Clubbing TV | Brasil https://stream.ads.ottera.tv/playlist.m3u8?network_id=609 
-#EXTINF:-1 tvg-id="FRBB1900001FA" tvg-logo="https://i.imgur.com/a4YXzGU.png" group-title="🎶MUSIC",Clubbing TV | França https://d2kxrnvwjgpe0t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-FR-prod/playlist.m3u8 
+#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://tinyurl.com/2p9o754s" group-title="🎬#CINEMATOGRAFICOS#",Adrenalina Freezone  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://tinyurl.com/2h5fvj87" group-title="🎬#CINEMATOGRAFICOS#",Cine Terror  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://tinyurl.com/2kzqbrkc" group-title="🎬#CINEMATOGRAFICOS#",Filmes Nacionais | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#
+#
+#
+#
 
 
 
 
+🟣📽#DRAMATOLOGICOS# canais de series 
 
+🔵📺#GENERALISTAS#   canais semi-fechados 
 
-#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Documentários | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Quebrando o Tabu | Pluto TV Brasil - link 2 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
-#EXTINF:-1 tvg-id="5f1ef1a8cec6be00072a7ac9" tvg-logo="https://images.pluto.tv/channels/5f1ef1a8cec6be00072a7ac9/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Documentários | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8cec6be00072a7ac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#EXTINF:-1 tvg-id="62cd9e5a5c38c00007f5669a" tvg-logo="https://images.pluto.tv/channels/62cd9e5a5c38c00007f5669a/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Quebrando o Tabu | Pluto TV Brasil - link 2 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus 
-#EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Wn1VFRx.png" group-title="♻️DOCUMENTARIO",Sesc TV | Brasil https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8 
-#EXTINF:-1 tvg-id="6014761dfb91870008ea6463" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="♻️DOCUMENTARIO",Turbo | link 2 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="♻️DOCUMENTARIO",TV Faap | Brasil http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8 
+🟢🎞#DESENHOS#       canais de desenho não para criança
 
+🟣🦠#EDUCATIVOS#   canais educativos 
 
+🔵🥐#CULINARIA#    canais do culinária 
 
-🟥⬜🟩🟦🟨⬜🟩⬜🟨🟦🟥⬜🟨🟦🟥⬜🟨🟦🟥🟦🟨🟥🟦🟨🟦🟨
-♻️RANDOM
+🟢🍿#PIPOQUINHA#   canais Comédia & curiosidades 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2yz5n4mt" group-title="🎲INFANTIL", GIGA GLOB 
-http://abcdario.b-cdn.net/live/gloob/chunks.m3u8?token=wg_Jw5Wt6YGNw9jRBQYfVU0O952kGRaU95uoqpH_4BQ&expires=1666660479
+🟣🌞#INFANTIL#    canais para pivet
 
-#EXTINF:-1 tvg-logo="https://is.gd/ndLmAY" group-title="🎲INFANTIL", NICKELODEON
-http://marquisi.b-cdn.net/live/nickelodeon/chunks.m3u8?token=tW_1WWz9qe-DMGzIEsgpPLRkV6y-wwc20kzI-ZljXtA&expires=1667268081
+🔵🏀#ESPORTIVOS#  canais de esportes afins 
 
-#EXTINF:-1 tvg-logo="http://is.gd/z5CGcc" group-title="♻️DOCUMENTARIO", PLANETA ANIMAL
-http://magod.b-cdn.net/live/animalplanet/chunks.m3u8?token=-N7zpkXp_2TBa5xMVUkComSIMZABS1l4OLMGsXyvJSM&expires=1666061009   
+🟢💥#ESCLUSIVOS#  canais fechados 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2dpwkvdx" group-title="🎲INFANTIL", CARTOONITO
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+🟣📊#investimentos#  canais de investimento 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/22t43u2x" group-title="🎲INFANTIL", CARTOON NETWORK 
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+🔵⚖#JUDICIARIO#    canais judiciário 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/28j6hg9r" group-title="🏀ESPORTES", PREMIERE 01
-http://marquisi.b-cdn.net/live/premiereclubes/chunks.m3u8?token=0B5yrx5m2-yFUlpgu0Kiz81OIpmIbrgFZ8zF55aa_Dc&expires=1667268387
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/28j6hg9r" group-title="🏀ESPORTES",  PREMIERE 02 
-http://marquisi.b-cdn.net/live/premiere3/chunks.m3u8?token=a8C1xhNVV_-n2Vep1Vs5Dd9QpHm_D6tEpuzgtbZf5b4&expires=1667268387
-
-#EXTINF:-1 tvg-logo "https://tinyurl.com/2yeh3lyd" group-title="🏀ESPORTES",  SPORTV 
-http://marquisi.b-cdn.net/live/sportv/chunks.m3u8?token=6b-j8xm-psdR0YsLigPsl00v6yrLPupU0hFXHJxKAps&expires=1667268387
-
-#EXTINF:-1 tvg-logo "https://tinyurl.com/2ybuumrd" group-title="🏀ESPORTES", ESPN 
-http://marquisi.b-cdn.net/live/espn/chunks.m3u8?token=Koav_gQ9kdHkszMCKFUWRTugc2ZFtn0DBahTP8Ve1x4&expires=1667268387
