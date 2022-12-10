@@ -12,10 +12,10 @@
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://tinyurl.com/2p9o754s" group-title="🎬#CINEMATOGRAFICOS#",Adrenalina Freezone  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-logo="https://tinyurl.com/2h5fvj87" group-title="🎬#CINEMATOGRAFICOS#",Cine Terror  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="5f5a545d0dbf7f0007c09408" tvg-logo="https://tinyurl.com/2kzqbrkc" group-title="🎬#CINEMATOGRAFICOS#",Filmes Nacionais | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
-#
-#
-#
-#
+#EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-logo="https://images.pluto.tv/channels/633dcebd80386500074a2461/colorLogoPNG.png" group-title="🎬#CINEMATOGRAFICOS#",Filmelier | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-logo="https://tinyurl.com/2oeq9egv" group-title="🎬#CINEMATOGRAFICOS#",Filmes Suspense | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-id="5f120f41b7d403000783a6d6" tvg-logo="https://tinyurl.com/y8oz27zb" group-title="🎬#CINEMATOGRAFICOS#",Filmes Ação  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="🎬#CINEMATOGRAFICOS#",MyTime Movie Network | https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8 
 
 
 
@@ -27,7 +27,12 @@
 🟢🎞#DESENHOS#       canais de desenho não para criança
 
 🟣🦠#EDUCATIVOS#   canais educativos 
-
+#EXTINF:-1 tvg-id="5f1213ba0ecebc00070e170f" tvg-logo="https://i.imgur.com/oAarMpL.png" group-title="🦠#EDUCATIVOS#",Natureza |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="CanalSaude.br" tvg-logo="https://i.imgur.com/iWPpWzW.png" group-title="🦠#EDUCATIVOS#",Canal Saúde |  https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZGO7xc.png" group-title="🦠#EDUCATIVOS#",Canal Educação | Dailymotion http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8abdvf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oUtwJz.png" group-title="🦠#EDUCATIVOS#",XR Health Brasil http://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://tinyurl.com/2zw4zsr7" group-title="🦠#EDUCATIVOS#  ",Pronto-Socorro https://tinyurl.com/2lrur87e
+#EXTINF:-1 tvg-id="61bb72a7bf8c520007a8fd27" tvg-logo="https://tinyurl.com/2m3sfst9" group-title="🦠#EDUCATIVOS#  ",Pronto-Socorro https://tinyurl.com/2f8pyzpa
 🔵🥐#CULINARIA#    canais do culinária 
 
 🟢🍿#PIPOQUINHA#   canais Comédia & curiosidades 
