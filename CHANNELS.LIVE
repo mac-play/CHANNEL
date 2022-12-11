@@ -25,6 +25,12 @@
 #
 
 🔵📺#GENERALISTAS#   canais semi-fechados 
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png" group-title="📺#GENERALISTAS#",MTV |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="📺#GENERALISTAS#",MTV Com o Ex  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="📺#GENERALISTAS#",MTV Shore |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 " tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png" group-title="📺#GENERALISTAS#",Nosey Escândalos |  https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown 
+
+
 
 🟢🎞#DESENHOS#       canais de desenho não para criança
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="🎞#DESENHOS#",Death Note | https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1 #
@@ -70,6 +76,14 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60ecb878ebef
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LPyQKCi.png" group-title="🏀#ESPORTIVOS#",Hollywire |  https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8
 
 🟢💥#ESCLUSIVOS#  canais fechados 
+
+❤#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxelc_yTtbWWnHNNT88doftLyt6aKs0ZwkcM02hQ_SVYPvVtQn&s" group-title="📺#GENERALISTAS#",A FAZENDA |  
+https://www.r7.com
+❤
+
+❤
+
+❤
 
 🟣📊#investimentos#  canais de investimento 
 
