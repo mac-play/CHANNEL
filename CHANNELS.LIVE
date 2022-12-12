@@ -106,5 +106,9 @@ http://precobaixo.b-cdn.net/live/nickelodeon/chunks.m3u8?token=_4skcUsLPhnwtXNLo
 
 🟣📊#investimentos#  canais de investimento 
 
-🔵⚖#JUDICIARIO#    canais judiciário 
-
+🔵⛔#AUTOMOBILISMO#    canais judiciário 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/S79UMef.png" group-title="⛔#AUTOMOBILISMO#",Volty https://stream.ads.ottera.tv/playlist.m3u8?network_id=865
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="⛔#AUTOMOBILISMO#",Choppertown | EUA https://stream.ads.ottera.tv/playlist.m3u8?network_id=963 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PJDDLA6.png" group-title="⛔#AUTOMOBILISMO#",Auto Allstars https://d33yv8yb2ds4q1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AutoAllstars-SportsTribal/playlist.m3u8 
+#EXTINF:-1  tvg-logo="http://images.pluto.tv/channels/5d2646a1970eb273b28db077/colorLogoPNG.png" group-title="⛔#AUTOMOBILISMO#",Choppertown | EUA https://stream.ads.ottera.tv/playlist.m3u8?network_id=963
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" group-title="⛔#AUTOMOBILISMO#",Motorvision 5 https://ov.ottera.tv/live/master.m3u8?channel=mvg_mv
