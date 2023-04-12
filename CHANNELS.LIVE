@@ -12,7 +12,119 @@
 
 
 
-
+EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="🏀ESPORTES EUA###",ACCDN | EUA 
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VRtaxAp.png" group-title="🏀ESPORTES EUA###",ACL Cornhole TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1289
+#EXTINF:-1 tvg-id="5db867744f229f0009266784" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Action Sports | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bnJQE2V.png" group-title="🏀ESPORTES EUA###",Arena Games Triathlon
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://i.imgur.com/d9KLGF6.png" group-title="🏀ESPORTES EUA###",B1G Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=283
+#EXTINF:-1 tvg-id="5cabdf1437b88b26947346b2" tvg-logo="http://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Backcountry | Pluto TV EUA 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",beIN Sports Xtra | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="59641d9173ac1fec2fc01f17" tvg-logo="http://images.pluto.tv/channels/59641d9173ac1fec2fc01f17/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Big Sky Conference | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5967f5cf73ac1fec2fc07148" tvg-logo="http://images.pluto.tv/channels/5967f5cf73ac1fec2fc07148/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Big Sky Conference Live | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5967f5cf73ac1fec2fc07148/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="🏀ESPORTES EUA###",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="🏀ESPORTES EUA###",Billiard TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="🏀ESPORTES EUA###",Billiard TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=840
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="🏀ESPORTES EUA###",Billiard TV 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2167
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65" tvg-logo="https://i.imgur.com/zmvTgto.png" group-title="🏀ESPORTES EUA###",CampusLore Sports | Roku
+http://linear-235.frequency.stream/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="http://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",CBS Sports HQ | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="🏀ESPORTES EUA###",Edge Sport | Plex EUA
+https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="🏀ESPORTES EUA###",Edge Sport | Reino Unido 
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="🏀ESPORTES EUA###",Edge Sport | Xiaomi 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:400/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9saXZlL3doaXRlL0VwaWMtTWFrZXMtTWlzc2VzLWFuZC1NYXloZW0ucG5n" group-title="🏀ESPORTES EUA###",Epic M+
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/chunklist.m3u8
+#logo="http://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Poker Go | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b04b2300072e31af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="60d32781fc7abf0007d00d33" tvg-logo="http://images.pluto.tv/channels/60d32781fc7abf0007d00d33/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Poker Go | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d32781fc7abf0007d00d33/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-logo="https://i.imgur.com/OtX1uj2.png" group-title="🏀ESPORTES EUA###",Poker Night | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1353
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",RealMadrid TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",RealMadrid TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
+#EXTINF:-1 tvg-id="613272f1279862000734464e" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",RealMadrid TV | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613272f1279862000734464e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="🏀ESPORTES EUA###",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="🏀ESPORTES EUA###",Red Bull TV | Reino Unido
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="🏀ESPORTES EUA###",Red Bull TV - vídeo de parkour na Grécia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=591
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDdaBmI.png" group-title="🏀ESPORTES EUA###",Ski TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1367
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QweV0BP.png" group-title="🏀ESPORTES EUA###",Sky Racing 1 | Reino Unido
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7MkX0Ct.png" group-title="🏀ESPORTES EUA###",Sky Racing 2 | Reino Unido
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="🏀ESPORTES EUA###",Slopes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
+#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="🏀ESPORTES EUA###",Slopes | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
+#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="🏀ESPORTES EUA###",Slopes | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2596
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-619bffbfb9d380b2df7296ce" group-title="🏀ESPORTES EUA###",Spartan TV
+https://spartantv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="http://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Spike Outdoors | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Sports | Pluto TV EUA 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d7677fa2ec536ce1d587eeb" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Sports | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ie6wpAO.png" group-title="🏀ESPORTES EUA###",Sports Channel Network | Reino Unido
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="🏀ESPORTES EUA###",Sports Tonight | Reino Unido
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="5bd81b1053ed2c6334ea0856" tvg-logo="https://images.pluto.tv/channels/5bd81b1053ed2c6334ea0856/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",Strongman | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd81b1053ed2c6334ea0856/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="USBB10000058A" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="🏀ESPORTES EUA###",Surf Now TV | Samsung EUA 
+https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="🏀ESPORTES EUA###",Surf Now TV | Plex EUA 
+https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/11100072-01d6-4819-ba9a-a99ad479a5c7/3.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="🏀ESPORTES EUA###",Surf Now TV | Roku EUA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOZyeg6.png" group-title="🏀ESPORTES EUA###",Swerve Sports | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1555
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOZyeg6.png" group-title="🏀ESPORTES EUA###",Swerve Sports | Roku
+http://linear-253.frequency.stream/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="🏀ESPORTES EUA###",Tennis Channel - Samsung | Reino Unido
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYAFRKX.png" group-title="🏀ESPORTES EUA###",The Cycling Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=700
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ndCkouf.png" tvg-id="13873" group-title="🏀ESPORTES EUA###",Trace Sport Stars | Austrália
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://i.imgur.com/r7YUsHP.png" group-title="🏀ESPORTES EUA###",USA Today Sports
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60df3e18541143002f3b8609
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",World Poker Tour
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1346
+#EXTINF:-1 tvg-id="5ad9b7aae738977e2c312132" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",World Poker Tour | Pluto TV Alemanha
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="http://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",World Poker Tour | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f8ecfb9db6c180007a6d1b0" tvg-logo="http://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",World Poker Tour | Pluto TV França
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="608016e446d73500075ea7e0" tvg-logo="http://images.pluto.tv/channels/608016e446d73500075ea7e0/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",World Poker Tour | Pluto TV Itália
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" group-title="🏀ESPORTES EUA###",World Poker Tour | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YdRi6sW.png?1" tvg-id="13891" group-title="🏀ESPORTES EUA###",Whistle TV
+https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
 
 EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://i.imgur.com/iu4Xbjd.png" group-title="🧸KIDS###",A vida moderna de Rocko | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
