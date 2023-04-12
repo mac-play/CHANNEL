@@ -11,6 +11,53 @@
 
 
 
+#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="🥊ESPORTES ###",Impact Wrestling | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="🥊ESPORTES ###",MMA Junkie
+https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
+#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="🥊ESPORTES ###",MMA Junkie
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=802
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | Rakuten
+https://alchimie-mmatv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mmatv-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=803
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=804
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1308
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 5
+https://ov.ottera.tv/live/master.m3u8?channel=mma_mm
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 6
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=819
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1330
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="🥊ESPORTES ###",MMA TV | link 8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1684
+#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="🥊ESPORTES ###",Pro Wrestling | EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="🥊ESPORTES ###",PWTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2529
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="🥊ESPORTES ###",PWTV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2540
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="🥊ESPORTES ###",PWTV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="🥊ESPORTES ###",PWTV 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2528
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="🥊ESPORTES ###",PWTV 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=997
+#EXTINF:-1 tvg-id="603fde9026ecbf0007752c2c" tvg-logo="http://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png" group-title="🥊ESPORTES ###",Vs. | Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/603fde9026ecbf0007752c2c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="🥊ESPORTES ###",XFC TV | Distro TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="🥊ESPORTES ###",XFC TV | Galxy TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1985
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="🥊ESPORTES ###",XFC TV | Galxy TV 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2588
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="🥊ESPORTES ###",XFC TV | Galxy TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2599
+
 
 EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="🏀ESPORTES EUA###",ACCDN | EUA 
 https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8
